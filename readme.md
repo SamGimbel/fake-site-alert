@@ -1,3 +1,25 @@
+### To Do
+
+- change popup to settable warning levels:
+  - block (full page splash)
+  - banner (warnings)
+- add metadata to the list
+  - differentiate between satire and wrong news
+  - if possible, add overall bias (takes more research)
+- add list of sites that took trump money/gave money to trump
+- curate list of "neutral" news sites
+- curate list of "corporate" news sites that gave bad info during the campaign (not fake, not great)
+- suggest "neutral" news sites when browsing corporate sites
+- make it possible to add sites to the list
+ - local (easy)
+ - submit to api (harder)
+- block all news clicked on from FB (because duh)
+
+
+---
+
+Original Content
+
 ### Summary
 
 Simple browser extension that checks the current URL, and displays a banner at the top of the page warning them of dubious content.
